@@ -1,0 +1,4 @@
+dimod 
+amplify
+scikit-learn
+numpy
