@@ -2,3 +2,4 @@ dimod
 amplify
 scikit-learn
 numpy
+python-dotenv
