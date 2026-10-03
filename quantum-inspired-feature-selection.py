@@ -59,7 +59,7 @@ objective += sum(Q[(i, j)] * x[i] * x[j] for (i, j) in Q if i != j)
 
 # Step 3: set your token and solve
 client = FixstarsClient()
-client.token = "AE/FzstSenlWNLGUG7a8MImkZRVCG7pHipV"
+client.token = "your token here"
 client.parameters.timeout = 1000  # milliseconds
 
 result = solve(objective, client)
